@@ -1,0 +1,15 @@
+D:\.Net\C#\C#Excercises\Excercise9\bin\Debug\net8.0\Excercise9.exe
+D:\.Net\C#\C#Excercises\Excercise9\bin\Debug\net8.0\Excercise9.deps.json
+D:\.Net\C#\C#Excercises\Excercise9\bin\Debug\net8.0\Excercise9.runtimeconfig.json
+D:\.Net\C#\C#Excercises\Excercise9\bin\Debug\net8.0\Excercise9.dll
+D:\.Net\C#\C#Excercises\Excercise9\bin\Debug\net8.0\Excercise9.pdb
+D:\.Net\C#\C#Excercises\Excercise9\obj\Debug\net8.0\Excercise9.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\C#\C#Excercises\Excercise9\obj\Debug\net8.0\Excercise9.AssemblyInfoInputs.cache
+D:\.Net\C#\C#Excercises\Excercise9\obj\Debug\net8.0\Excercise9.AssemblyInfo.cs
+D:\.Net\C#\C#Excercises\Excercise9\obj\Debug\net8.0\Excercise9.csproj.CoreCompileInputs.cache
+D:\.Net\C#\C#Excercises\Excercise9\obj\Debug\net8.0\Excercise9.sourcelink.json
+D:\.Net\C#\C#Excercises\Excercise9\obj\Debug\net8.0\Excercise9.dll
+D:\.Net\C#\C#Excercises\Excercise9\obj\Debug\net8.0\refint\Excercise9.dll
+D:\.Net\C#\C#Excercises\Excercise9\obj\Debug\net8.0\Excercise9.pdb
+D:\.Net\C#\C#Excercises\Excercise9\obj\Debug\net8.0\Excercise9.genruntimeconfig.cache
+D:\.Net\C#\C#Excercises\Excercise9\obj\Debug\net8.0\ref\Excercise9.dll

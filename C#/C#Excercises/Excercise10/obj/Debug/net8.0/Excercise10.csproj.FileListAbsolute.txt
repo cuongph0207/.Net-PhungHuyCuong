@@ -1,0 +1,15 @@
+D:\.Net\C#\C#Excercises\Excercise10\bin\Debug\net8.0\Excercise10.exe
+D:\.Net\C#\C#Excercises\Excercise10\bin\Debug\net8.0\Excercise10.deps.json
+D:\.Net\C#\C#Excercises\Excercise10\bin\Debug\net8.0\Excercise10.runtimeconfig.json
+D:\.Net\C#\C#Excercises\Excercise10\bin\Debug\net8.0\Excercise10.dll
+D:\.Net\C#\C#Excercises\Excercise10\bin\Debug\net8.0\Excercise10.pdb
+D:\.Net\C#\C#Excercises\Excercise10\obj\Debug\net8.0\Excercise10.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\C#\C#Excercises\Excercise10\obj\Debug\net8.0\Excercise10.AssemblyInfoInputs.cache
+D:\.Net\C#\C#Excercises\Excercise10\obj\Debug\net8.0\Excercise10.AssemblyInfo.cs
+D:\.Net\C#\C#Excercises\Excercise10\obj\Debug\net8.0\Excercise10.csproj.CoreCompileInputs.cache
+D:\.Net\C#\C#Excercises\Excercise10\obj\Debug\net8.0\Excercise10.sourcelink.json
+D:\.Net\C#\C#Excercises\Excercise10\obj\Debug\net8.0\Excercise10.dll
+D:\.Net\C#\C#Excercises\Excercise10\obj\Debug\net8.0\refint\Excercise10.dll
+D:\.Net\C#\C#Excercises\Excercise10\obj\Debug\net8.0\Excercise10.pdb
+D:\.Net\C#\C#Excercises\Excercise10\obj\Debug\net8.0\Excercise10.genruntimeconfig.cache
+D:\.Net\C#\C#Excercises\Excercise10\obj\Debug\net8.0\ref\Excercise10.dll
