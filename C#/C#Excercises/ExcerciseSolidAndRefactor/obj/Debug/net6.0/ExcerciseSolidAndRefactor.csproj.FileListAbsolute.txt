@@ -1,0 +1,15 @@
+D:\.Net\C#\C#Excercises\ExcerciseSolidAndRefactor\bin\Debug\net6.0\ExcerciseSolidAndRefactor.exe
+D:\.Net\C#\C#Excercises\ExcerciseSolidAndRefactor\bin\Debug\net6.0\ExcerciseSolidAndRefactor.deps.json
+D:\.Net\C#\C#Excercises\ExcerciseSolidAndRefactor\bin\Debug\net6.0\ExcerciseSolidAndRefactor.runtimeconfig.json
+D:\.Net\C#\C#Excercises\ExcerciseSolidAndRefactor\bin\Debug\net6.0\ExcerciseSolidAndRefactor.dll
+D:\.Net\C#\C#Excercises\ExcerciseSolidAndRefactor\bin\Debug\net6.0\ExcerciseSolidAndRefactor.pdb
+D:\.Net\C#\C#Excercises\ExcerciseSolidAndRefactor\obj\Debug\net6.0\ExcerciseSolidAndRefactor.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\C#\C#Excercises\ExcerciseSolidAndRefactor\obj\Debug\net6.0\ExcerciseSolidAndRefactor.AssemblyInfoInputs.cache
+D:\.Net\C#\C#Excercises\ExcerciseSolidAndRefactor\obj\Debug\net6.0\ExcerciseSolidAndRefactor.AssemblyInfo.cs
+D:\.Net\C#\C#Excercises\ExcerciseSolidAndRefactor\obj\Debug\net6.0\ExcerciseSolidAndRefactor.csproj.CoreCompileInputs.cache
+D:\.Net\C#\C#Excercises\ExcerciseSolidAndRefactor\obj\Debug\net6.0\ExcerciseSolidAndRefactor.sourcelink.json
+D:\.Net\C#\C#Excercises\ExcerciseSolidAndRefactor\obj\Debug\net6.0\ExcerciseSolidAndRefactor.dll
+D:\.Net\C#\C#Excercises\ExcerciseSolidAndRefactor\obj\Debug\net6.0\refint\ExcerciseSolidAndRefactor.dll
+D:\.Net\C#\C#Excercises\ExcerciseSolidAndRefactor\obj\Debug\net6.0\ExcerciseSolidAndRefactor.pdb
+D:\.Net\C#\C#Excercises\ExcerciseSolidAndRefactor\obj\Debug\net6.0\ExcerciseSolidAndRefactor.genruntimeconfig.cache
+D:\.Net\C#\C#Excercises\ExcerciseSolidAndRefactor\obj\Debug\net6.0\ref\ExcerciseSolidAndRefactor.dll
