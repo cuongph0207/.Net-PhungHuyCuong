@@ -37,7 +37,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Excercise16", "Excercise16\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExcerciseSolidAndRefactor", "ExcerciseSolidAndRefactor\ExcerciseSolidAndRefactor.csproj", "{2893B61A-223D-4AA0-8A9B-6B1BE790F95D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTVN", "BTVN\BTVN.csproj", "{CBC0DD61-4DFD-4870-8F16-80B4B9380D65}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BTVN", "BTVN\BTVN.csproj", "{CBC0DD61-4DFD-4870-8F16-80B4B9380D65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTVN2", "BTVN2\BTVN2.csproj", "{68C09A37-B1C0-4E96-8A9D-C20706914B4B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +119,10 @@ Global
 		{CBC0DD61-4DFD-4870-8F16-80B4B9380D65}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CBC0DD61-4DFD-4870-8F16-80B4B9380D65}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CBC0DD61-4DFD-4870-8F16-80B4B9380D65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68C09A37-B1C0-4E96-8A9D-C20706914B4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68C09A37-B1C0-4E96-8A9D-C20706914B4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68C09A37-B1C0-4E96-8A9D-C20706914B4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68C09A37-B1C0-4E96-8A9D-C20706914B4B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
