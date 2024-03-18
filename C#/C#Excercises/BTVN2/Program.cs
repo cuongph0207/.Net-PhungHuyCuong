@@ -2,7 +2,53 @@
 
 namespace BTVN2
 {
+    internal class Program
+    {
+        static List<HoaDon> danhSachHoaDon = new List<HoaDon>();
 
+        static void Main(string[] args)
+        {
+            Console.OutputEncoding = System.Text.Encoding.UTF8;
+            int choice;
+            do
+            {
+                Console.WriteLine("Menu:");
+                Console.WriteLine("1. Nhập hóa đơn");
+                Console.WriteLine("2. Xóa hóa đơn");
+                Console.WriteLine("3. Sửa hóa đơn");
+                Console.WriteLine("4. Danh sách hóa đơn");
+                Console.WriteLine("5. Tìm kiếm hóa đơn theo mã hóa đơn");
+                Console.WriteLine("0. Thoát");
+                Console.Write("Nhập lựa chọn của bạn: ");
+                choice = int.Parse(Console.ReadLine());
+
+                switch (choice)
+                {
+                    case 1:
+                        HoaDon.NhapHoaDon(danhSachHoaDon);
+                        break;
+                    case 2:
+                        HoaDon.XoaHoaDon(danhSachHoaDon);
+                        break;
+                    case 3:
+                        HoaDon.SuaHoaDon(danhSachHoaDon);
+                        break;
+                    case 4:
+                        HoaDon.HienThiDanhSachHoaDon(danhSachHoaDon);
+                        break;
+                    case 5:
+                        HoaDon.TimKiemHoaDon(danhSachHoaDon);
+                        break;
+                    case 0:
+                        Console.WriteLine("Kết thúc chương trình.");
+                        break;
+                    default:
+                        Console.WriteLine("Lựa chọn không hợp lệ.");
+                        break;
+                }
+            } while (choice != 0);
+        }
+    }
     public struct HoaDon
     {
         public string MaHoaDon;
@@ -98,54 +144,6 @@ namespace BTVN2
             {
                 Console.WriteLine("Không tìm thấy hóa đơn có mã {0}.", maHoaDon);
             }
-        }
-    }
-
-    class Program
-    {
-        static List<HoaDon> danhSachHoaDon = new List<HoaDon>();
-
-        static void Main(string[] args)
-        {
-            Console.OutputEncoding = System.Text.Encoding.UTF8;
-            int choice;
-            do
-            {
-                Console.WriteLine("Menu:");
-                Console.WriteLine("1. Nhập hóa đơn");
-                Console.WriteLine("2. Xóa hóa đơn");
-                Console.WriteLine("3. Sửa hóa đơn");
-                Console.WriteLine("4. Danh sách hóa đơn");
-                Console.WriteLine("5. Tìm kiếm hóa đơn theo mã hóa đơn");
-                Console.WriteLine("0. Thoát");
-                Console.Write("Nhập lựa chọn của bạn: ");
-                choice = int.Parse(Console.ReadLine());
-
-                switch (choice)
-                {
-                    case 1:
-                        HoaDon.NhapHoaDon(danhSachHoaDon);
-                        break;
-                    case 2:
-                        HoaDon.XoaHoaDon(danhSachHoaDon);
-                        break;
-                    case 3:
-                        HoaDon.SuaHoaDon(danhSachHoaDon);
-                        break;
-                    case 4:
-                        HoaDon.HienThiDanhSachHoaDon(danhSachHoaDon);
-                        break;
-                    case 5:
-                        HoaDon.TimKiemHoaDon(danhSachHoaDon);
-                        break;
-                    case 0:
-                        Console.WriteLine("Kết thúc chương trình.");
-                        break;
-                    default:
-                        Console.WriteLine("Lựa chọn không hợp lệ.");
-                        break;
-                }
-            } while (choice != 0);
         }
     }
 }
