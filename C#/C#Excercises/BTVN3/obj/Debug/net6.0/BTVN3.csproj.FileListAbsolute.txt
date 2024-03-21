@@ -1,0 +1,15 @@
+D:\.Net\C#\C#Excercises\BTVN3\bin\Debug\net6.0\BTVN3.exe
+D:\.Net\C#\C#Excercises\BTVN3\bin\Debug\net6.0\BTVN3.deps.json
+D:\.Net\C#\C#Excercises\BTVN3\bin\Debug\net6.0\BTVN3.runtimeconfig.json
+D:\.Net\C#\C#Excercises\BTVN3\bin\Debug\net6.0\BTVN3.dll
+D:\.Net\C#\C#Excercises\BTVN3\bin\Debug\net6.0\BTVN3.pdb
+D:\.Net\C#\C#Excercises\BTVN3\obj\Debug\net6.0\BTVN3.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\C#\C#Excercises\BTVN3\obj\Debug\net6.0\BTVN3.AssemblyInfoInputs.cache
+D:\.Net\C#\C#Excercises\BTVN3\obj\Debug\net6.0\BTVN3.AssemblyInfo.cs
+D:\.Net\C#\C#Excercises\BTVN3\obj\Debug\net6.0\BTVN3.csproj.CoreCompileInputs.cache
+D:\.Net\C#\C#Excercises\BTVN3\obj\Debug\net6.0\BTVN3.sourcelink.json
+D:\.Net\C#\C#Excercises\BTVN3\obj\Debug\net6.0\BTVN3.dll
+D:\.Net\C#\C#Excercises\BTVN3\obj\Debug\net6.0\refint\BTVN3.dll
+D:\.Net\C#\C#Excercises\BTVN3\obj\Debug\net6.0\BTVN3.pdb
+D:\.Net\C#\C#Excercises\BTVN3\obj\Debug\net6.0\BTVN3.genruntimeconfig.cache
+D:\.Net\C#\C#Excercises\BTVN3\obj\Debug\net6.0\ref\BTVN3.dll
