@@ -6,17 +6,16 @@ using System.Threading.Tasks;
 
 namespace Excercise16
 {
-    internal class Student
+    public class Student
     {
-        private static int nextId = 1;
-        public int Id { get; }
+        public Guid Id { get; private set; }
         public string Name { get; set; }
         public string Gender { get; set; }
         public int Age { get; set; }
         public double MathScore { get; set; }
         public double PhysicsScore { get; set; }
         public double ChemistryScore { get; set; }
-        public double AverageScore => (MathScore + PhysicsScore + ChemistryScore) / 3;
+        public double AverageScore { get { return (MathScore + PhysicsScore + ChemistryScore) / 3; } }
         public string AcademicPerformance
         {
             get
@@ -26,14 +25,15 @@ namespace Excercise16
                 else if (AverageScore >= 6.5)
                     return "Khá";
                 else if (AverageScore >= 5)
-                    return "Trung Bình";
+                    return "Trung bình";
                 else
                     return "Yếu";
             }
         }
+
         public Student(string name, string gender, int age, double mathScore, double physicsScore, double chemistryScore)
         {
-            Id = nextId++;
+            Id = Guid.NewGuid();
             Name = name;
             Gender = gender;
             Age = age;
